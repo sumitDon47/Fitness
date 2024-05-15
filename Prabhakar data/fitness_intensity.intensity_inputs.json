@@ -1,0 +1,718 @@
+[{
+  "_id": {
+    "$oid": "658b156ac85b124b8b6e6e5a"
+  },
+  "Age": 22,
+  "Gender": 0,
+  "Height": 1.8,
+  "Weight": 75,
+  "Bmi": 23.15,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Loss",
+  "Injury": 0,
+  "Current_fitness_level": "Beginner",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658b17d1c85b124b8b6e6e66"
+  },
+  "Age": 22,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 80,
+  "Bmi": 27.68,
+  "Bmi_class": "Overweight",
+  "Goals": "Weight Loss",
+  "Injury": 0,
+  "Current_fitness_level": "Beginner",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658b20a26b4d375d4b9a9e7e"
+  },
+  "Age": 22,
+  "Gender": 0,
+  "Height": 1.8,
+  "Weight": 87,
+  "Bmi": 26.85,
+  "Bmi_class": "Overweight",
+  "Goals": "Weight Loss",
+  "Injury": 1,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 5
+},
+{
+  "_id": {
+    "$oid": "658b314226ad9872c9c4eb13"
+  },
+  "Age": 22,
+  "Gender": 0,
+  "Height": 1.82,
+  "Weight": 89,
+  "Bmi": 26.87,
+  "Bmi_class": "Overweight",
+  "Goals": "Weight Loss",
+  "Injury": 0,
+  "Current_fitness_level": "Advanced",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "658b334d26ad9872c9c4eb1a"
+  },
+  "Age": 22,
+  "Gender": 0,
+  "Height": 1.82,
+  "Weight": 88,
+  "Bmi": 26.57,
+  "Bmi_class": "Overweight",
+  "Goals": "Maintain",
+  "Injury": 0,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 5
+},
+{
+  "_id": {
+    "$oid": "658b87de6d4136d34c1a7c9a"
+  },
+  "Age": 26,
+  "Gender": 1,
+  "Height": 1.57,
+  "Weight": 51,
+  "Bmi": 20.69,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Loss",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 6
+},
+{
+  "_id": {
+    "$oid": "658b8e5d6d4136d34c1a7ca7"
+  },
+  "Age": 23,
+  "Gender": 1,
+  "Height": 1.56,
+  "Weight": 51,
+  "Bmi": 20.96,
+  "Bmi_class": "Normal weight",
+  "Goals": "Maintain",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 6
+},
+{
+  "_id": {
+    "$oid": "659e44b711bcd466f5eec634"
+  },
+  "Age": 22,
+  "Gender": 0,
+  "Height": 1.67,
+  "Weight": 70,
+  "Bmi": 25.1,
+  "Bmi_class": "Overweight",
+  "Goals": "Weight Loss",
+  "Injury": 0,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 5
+},
+{
+  "_id": {
+    "$oid": "65a9f8c93fa2c240a03588c5"
+  },
+  "Age": 21,
+  "Gender": 0,
+  "Height": 1.6,
+  "Weight": 60,
+  "Bmi": 23.44,
+  "Bmi_class": "Normal weight",
+  "Goals": "Maintain",
+  "Injury": 0,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 5
+},
+{
+  "_id": {
+    "$oid": "65c9a9272922dad15ccbd9f4"
+  },
+  "Age": 23,
+  "Gender": 1,
+  "Height": 1.7,
+  "Weight": 57,
+  "Bmi": 19.72,
+  "Bmi_class": "Normal weight",
+  "Goals": "Maintain",
+  "Injury": 1,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 4
+},
+{
+  "_id": {
+    "$oid": "65cc696f8afbdcbb1fd4b404"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.65,
+  "Weight": 69,
+  "Bmi": 25.34,
+  "Bmi_class": "Overweight",
+  "Goals": "Weight Loss",
+  "Injury": 0,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 5
+},
+{
+  "_id": {
+    "$oid": "65cf79c69ca9cde687be4d22"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 55,
+  "Bmi": 19.03,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65cf7db4c927f172195399cc"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 55,
+  "Bmi": 19.03,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65cf7ddcc927f172195399cf"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 55,
+  "Bmi": 19.03,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65cf809ac927f172195399d2"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 55,
+  "Bmi": 19.03,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65cf82fec927f172195399d6"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 55,
+  "Bmi": 19.03,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65d018d095161fc559526ec6"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 55,
+  "Bmi": 19.03,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65d0194295161fc559526ec9"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 55,
+  "Bmi": 19.03,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65d019a295161fc559526ecc"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 55,
+  "Bmi": 19.03,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65d019f095161fc559526ecf"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 55,
+  "Bmi": 19.03,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65d01eb99c7f83fb269d970e"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 55,
+  "Bmi": 19.03,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65d021ae9c7f83fb269d971b"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 60,
+  "Bmi": 20.76,
+  "Bmi_class": "Normal weight",
+  "Goals": "Maintain",
+  "Injury": 0,
+  "Current_fitness_level": "Advanced",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65d021ff9c7f83fb269d971e"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 60,
+  "Bmi": 20.76,
+  "Bmi_class": "Normal weight",
+  "Goals": "Maintain",
+  "Injury": 0,
+  "Current_fitness_level": "Advanced",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65d022ed9c7f83fb269d9721"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 60,
+  "Bmi": 20.76,
+  "Bmi_class": "Normal weight",
+  "Goals": "Maintain",
+  "Injury": 0,
+  "Current_fitness_level": "Advanced",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65d0441930adc44def98cdd1"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 55,
+  "Bmi": 19.03,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65d0c5aca49f5b99abc9157f"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 55,
+  "Bmi": 19.03,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65d0dd74a49f5b99abc91597"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 55,
+  "Bmi": 19.03,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65d0f243eab6fe60be5d944d"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 55,
+  "Bmi": 19.03,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65d565f8f5082e1b1f3b5d6f"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.68,
+  "Weight": 80,
+  "Bmi": 28.34,
+  "Bmi_class": "Overweight",
+  "Goals": "Weight Loss",
+  "Injury": 1,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 3
+},
+{
+  "_id": {
+    "$oid": "65d56e2ebdbd96f8b5b2a83f"
+  },
+  "Age": 43,
+  "Gender": 0,
+  "Height": 1.6,
+  "Weight": 55,
+  "Bmi": 21.48,
+  "Bmi_class": "Normal weight",
+  "Goals": "Maintain",
+  "Injury": 1,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 2
+},
+{
+  "_id": {
+    "$oid": "65d6b7f09111d340ec518be4"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.65,
+  "Weight": 43,
+  "Bmi": 15.79,
+  "Bmi_class": "Underweight",
+  "Goals": "Weight Gain",
+  "Injury": 1,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 3
+},
+{
+  "_id": {
+    "$oid": "65d6c3bc9111d340ec518c05"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.69,
+  "Weight": 55,
+  "Bmi": 19.26,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 1,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 3
+},
+{
+  "_id": {
+    "$oid": "65d6d31d1e30f8a2966dc1ea"
+  },
+  "Age": 22,
+  "Gender": 0,
+  "Height": 1.65,
+  "Weight": 80,
+  "Bmi": 29.38,
+  "Bmi_class": "Overweight",
+  "Goals": "Weight Loss",
+  "Injury": 1,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 3
+},
+{
+  "_id": {
+    "$oid": "65d7358ff283479177cd3a8e"
+  },
+  "Age": 22,
+  "Gender": 0,
+  "Height": 1.72,
+  "Weight": 80,
+  "Bmi": 27.04,
+  "Bmi_class": "Overweight",
+  "Goals": "Weight Loss",
+  "Injury": 0,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 5
+},
+{
+  "_id": {
+    "$oid": "65d7a47cc9a80b469abc8105"
+  },
+  "Age": 22,
+  "Gender": 0,
+  "Height": 1.72,
+  "Weight": 80,
+  "Bmi": 27.04,
+  "Bmi_class": "Overweight",
+  "Goals": "Weight Loss",
+  "Injury": 1,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 3
+},
+{
+  "_id": {
+    "$oid": "65d7a58168a8881e47c424ad"
+  },
+  "Age": 22,
+  "Gender": 0,
+  "Height": 1.72,
+  "Weight": 80,
+  "Bmi": 27.04,
+  "Bmi_class": "Overweight",
+  "Goals": "Weight Loss",
+  "Injury": 1,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 3
+},
+{
+  "_id": {
+    "$oid": "65d7a6122bd06fbb861dc5cc"
+  },
+  "Age": 22,
+  "Gender": 0,
+  "Height": 1.72,
+  "Weight": 80,
+  "Bmi": 27.04,
+  "Bmi_class": "Overweight",
+  "Goals": "Weight Loss",
+  "Injury": 1,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 3
+},
+{
+  "_id": {
+    "$oid": "65d8253a8f642878390dd182"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 65,
+  "Bmi": 22.49,
+  "Bmi_class": "Normal weight",
+  "Goals": "Maintain",
+  "Injury": 0,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 5
+},
+{
+  "_id": {
+    "$oid": "65e80ee8624b56457f86afa7"
+  },
+  "Age": 22,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 80,
+  "Bmi": 27.68,
+  "Bmi_class": "Overweight",
+  "Goals": "Weight Loss",
+  "Injury": 0,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 5
+},
+{
+  "_id": {
+    "$oid": "65e881207287d4a2a13c6ac2"
+  },
+  "Age": 24,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 78,
+  "Bmi": 26.99,
+  "Bmi_class": "Overweight",
+  "Goals": "Weight Loss",
+  "Injury": 0,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 5
+},
+{
+  "_id": {
+    "$oid": "65e896cb7287d4a2a13c6d2e"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.55,
+  "Weight": 68,
+  "Bmi": 28.3,
+  "Bmi_class": "Overweight",
+  "Goals": "Weight Loss",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65ed9915f50efa86efa8ae0c"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.68,
+  "Weight": 55,
+  "Bmi": 19.49,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 0,
+  "Current_fitness_level": "Intermediate",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65ee5ce7bf22b79533cc82b2"
+  },
+  "Age": 22,
+  "Gender": 0,
+  "Height": 1.5,
+  "Weight": 80,
+  "Bmi": 35.56,
+  "Bmi_class": "Obese",
+  "Goals": "Weight Loss",
+  "Injury": 0,
+  "Current_fitness_level": "Advanced",
+  "__v": 0,
+  "Intensity": 7
+},
+{
+  "_id": {
+    "$oid": "65ee60b0bf22b79533cc836b"
+  },
+  "Age": 23,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 80,
+  "Bmi": 27.68,
+  "Bmi_class": "Overweight",
+  "Goals": "Weight Loss",
+  "Injury": 0,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 5
+},
+{
+  "_id": {
+    "$oid": "65ee668da26e52f3903f44e7"
+  },
+  "Age": 21,
+  "Gender": 0,
+  "Height": 1.7,
+  "Weight": 59,
+  "Bmi": 20.42,
+  "Bmi_class": "Normal weight",
+  "Goals": "Weight Gain",
+  "Injury": 1,
+  "Current_fitness_level": "Beginner",
+  "__v": 0,
+  "Intensity": 3
+}]

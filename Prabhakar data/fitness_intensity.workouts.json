@@ -1,0 +1,2904 @@
+[{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f196"
+  },
+  "type": "abs",
+  "name": "JUMPING JACK",
+  "calorie": 3.6,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/JUMPING JACK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f197"
+  },
+  "type": "abs",
+  "name": "NEGATIVELEG RAISES",
+  "calorie": 0.1,
+  "reps": 12,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/NEGATIVELEG RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f198"
+  },
+  "type": "abs",
+  "name": "CRUNCHES",
+  "calorie": 0.08,
+  "reps": 12,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/CRUNCHES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f199"
+  },
+  "type": "abs",
+  "name": "PLANK",
+  "calorie": 1.3,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/PLANK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f19a"
+  },
+  "type": "abs",
+  "name": "MOUNTAIN CLIMBER",
+  "calorie": 1,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/MOUNTAIN CLIMBER.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f19b"
+  },
+  "type": "abs",
+  "name": "RUSSIAN TWIST",
+  "calorie": 0.1,
+  "reps": 18,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/RUSSIAN TWIST.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f19c"
+  },
+  "type": "abs",
+  "name": "SLOW BICYCLE",
+  "calorie": 0.1,
+  "reps": 12,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/SLOW BICYCLE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f19d"
+  },
+  "type": "abs",
+  "name": "NEGATIVE LEG RAISES",
+  "calorie": 0.1,
+  "reps": 12,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/NEGATIVE LEG RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f19e"
+  },
+  "type": "abs",
+  "name": "PLANK",
+  "calorie": 1.3,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/PLANK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f19f"
+  },
+  "type": "abs",
+  "name": "CRUNCHES",
+  "calorie": 0.08,
+  "reps": 12,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/CRUNCHES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1a0"
+  },
+  "type": "abs",
+  "name": "MOUNTAIN CLIMBER",
+  "calorie": 2,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/MOUNTAIN CLIMBER.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1a1"
+  },
+  "type": "abs",
+  "name": "COBRA STRETCH",
+  "calorie": 0.05,
+  "time": 30,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/COBRA STRETCH.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1a2"
+  },
+  "type": "abs",
+  "name": "CHILD TO COBRA STRETCH",
+  "calorie": 1.2,
+  "time": 30,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/CHILD TO COBRA STRETCH.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1a3"
+  },
+  "type": "chest",
+  "name": "JUMPING JACK",
+  "calorie": 2,
+  "time": 30,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/JUMPING JACK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1a4"
+  },
+  "type": "chest",
+  "name": "INCLINED PUSHUP",
+  "calorie": 0.1,
+  "reps": 8,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/INCLINED PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1a5"
+  },
+  "type": "chest",
+  "name": "NORMAL PUSHUP",
+  "calorie": 0.13,
+  "reps": 8,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/NORMAL PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1a6"
+  },
+  "type": "chest",
+  "name": "DECLINED PUSHUP",
+  "calorie": 0.15,
+  "reps": 8,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/DECLINED PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1a7"
+  },
+  "type": "chest",
+  "name": "TRISCEP DIPS",
+  "calorie": 0.11,
+  "reps": 8,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/TRISCEP DIPS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1a8"
+  },
+  "type": "chest",
+  "name": "KNEE PUSHUP",
+  "calorie": 0.1,
+  "reps": 10,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/KNEE PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1a9"
+  },
+  "type": "chest",
+  "name": "WIDE PUSHUP",
+  "calorie": 0.13,
+  "reps": 6,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/WIDE PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1aa"
+  },
+  "type": "chest",
+  "name": "NORMAL PUSHUP",
+  "calorie": 0.13,
+  "reps": 8,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/NORMAL PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1ab"
+  },
+  "type": "chest",
+  "name": "INCLINED PUSHUP",
+  "calorie": 0.1,
+  "reps": 8,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/INCLINED PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1ac"
+  },
+  "type": "chest",
+  "name": "COBRA STRETCH",
+  "calorie": 1,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/COBRA STRETCH.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1ad"
+  },
+  "type": "chest",
+  "name": "CHEST STRETCH",
+  "calorie": 1,
+  "time": 30,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/CHEST STRETCH.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1ae"
+  },
+  "type": "arms",
+  "name": "JUMPING JACK",
+  "calorie": 2,
+  "time": 30,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/JUMPING JACK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1af"
+  },
+  "type": "arms",
+  "name": "ARM CIRCLE CLOCK-WISE",
+  "calorie": 1,
+  "time": 30,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/ARM CIRCLE CLOCK-WISE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1b0"
+  },
+  "type": "arms",
+  "name": "ARM CIRCLE ANTI-CLOCKWISE",
+  "calorie": 1,
+  "time": 30,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/ARM CIRCLE ANTI-CLOCKWISE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1b1"
+  },
+  "type": "arms",
+  "name": "SIDE ARM RAISE",
+  "calorie": 1,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/SIDE ARM RAISE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1b2"
+  },
+  "type": "arms",
+  "name": "TRISCEP DIPS",
+  "calorie": 0.11,
+  "reps": 10,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/TRISCEP DIPS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1b3"
+  },
+  "type": "arms",
+  "name": "ARM RAISES",
+  "calorie": 1.25,
+  "time": 30,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/ARM RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1b4"
+  },
+  "type": "arms",
+  "name": "DIAGONAL PLANK",
+  "calorie": 0.1,
+  "reps": 10,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/DIAGONAL PLANK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1b5"
+  },
+  "type": "arms",
+  "name": "DIAMOND PUSHUPS",
+  "calorie": 0.15,
+  "reps": 8,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/DIAMOND PUSHUPS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1b6"
+  },
+  "type": "arms",
+  "name": "LEG BARBELL CURL LEFT",
+  "calorie": 0.06,
+  "reps": 10,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/LEG BARBELL CURL LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1b7"
+  },
+  "type": "arms",
+  "name": "LEG BARBELL CURL RIGHT",
+  "calorie": 0.06,
+  "reps": 10,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/LEG BARBELL CURL RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1b8"
+  },
+  "type": "arms",
+  "name": "NORMAL PUSHUP",
+  "calorie": 0.13,
+  "reps": 8,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/NORMAL PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1b9"
+  },
+  "type": "arms",
+  "name": "WALL PUSHUP",
+  "calorie": 0.06,
+  "reps": 14,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/WALL PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1ba"
+  },
+  "type": "arms",
+  "name": "TRISCEPS STRETCH LEFT",
+  "calorie": 1,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/TRISCEPS STRETCH LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1bb"
+  },
+  "type": "arms",
+  "name": "TRISCEPS STRETCH RIGHT",
+  "calorie": 1,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/TRISCEPS STRETCH RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1bc"
+  },
+  "type": "arms",
+  "name": "STANDING BISCEPS STRETCH LEFT",
+  "calorie": 1,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/STANDING BISCEPS STRETCH LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1bd"
+  },
+  "type": "arms",
+  "name": "STANDING BISCEPS STRETCH RIGHT",
+  "calorie": 1,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/STANDING BISCEPS STRETCH RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1be"
+  },
+  "type": "legs",
+  "name": "JUMPING JACK",
+  "calorie": 6,
+  "time": 30,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/JUMPING JACK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1bf"
+  },
+  "type": "legs",
+  "name": "SQUATS",
+  "calorie": 0.4,
+  "reps": 12,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1c0"
+  },
+  "type": "legs",
+  "name": "FORWARD LUNGE",
+  "calorie": 0.5,
+  "reps": 14,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/FORWARD LUNGE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1c1"
+  },
+  "type": "legs",
+  "name": "SIDE-LYING LEG LIFT LEFT",
+  "calorie": 0.2,
+  "reps": 12,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/SIDE-LYING LEG LIFT LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1c2"
+  },
+  "type": "legs",
+  "name": "SIDE-LYING LEG LIFT RIGHT",
+  "calorie": 0.2,
+  "reps": 12,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/SIDE-LYING LEG LIFT RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1c3"
+  },
+  "type": "legs",
+  "name": "JUMPING SQUATS",
+  "calorie": 0.9,
+  "reps": 8,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/JUMPING SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1c4"
+  },
+  "type": "legs",
+  "name": "DONKEY KICKS",
+  "calorie": 0.2,
+  "reps": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/DONKEY KICKS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1c5"
+  },
+  "type": "legs",
+  "name": "SQUATS HOLD",
+  "calorie": 2,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/SQUATS HOLD.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1c6"
+  },
+  "type": "legs",
+  "name": "CALF RAISES",
+  "calorie": 0.1,
+  "reps": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/CALF RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1c7"
+  },
+  "type": "legs",
+  "name": "ONE-LEG HAMSTRING REACH",
+  "calorie": 0.2,
+  "reps": 14,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/ONE-LEG HAMSTRING REACH.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1c8"
+  },
+  "type": "legs",
+  "name": "CALF RAISES",
+  "calorie": 0.1,
+  "reps": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/CALF RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1c9"
+  },
+  "type": "legs",
+  "name": "SQUATS",
+  "calorie": 0.6,
+  "reps": 12,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1ca"
+  },
+  "type": "legs",
+  "name": "KNEE TO CHEST STRETCH LEFT",
+  "calorie": 2,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/KNEE TO CHEST STRETCH LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1cb"
+  },
+  "type": "legs",
+  "name": "KNEE TO CHEST STRETCH RIGHT",
+  "calorie": 2,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/KNEE TO CHEST STRETCH RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1cc"
+  },
+  "type": "legs",
+  "name": "CALF STRETCH LEFT",
+  "calorie": 1,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/CALF STRETCH LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1cd"
+  },
+  "type": "legs",
+  "name": "CALF STRETCH RIGHT",
+  "calorie": 1,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/CALF STRETCH RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1ce"
+  },
+  "type": "shoulder and back",
+  "name": "JUMPING JACK",
+  "calorie": 2,
+  "time": 30,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/JUMPING JACK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1cf"
+  },
+  "type": "shoulder and back",
+  "name": "ARM RAISES",
+  "calorie": 1,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/ARM RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1d0"
+  },
+  "type": "shoulder and back",
+  "name": "SIDE ARM RAISE",
+  "calorie": 1,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/SIDE ARM RAISE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1d1"
+  },
+  "type": "shoulder and back",
+  "name": "ARM SCISSORS",
+  "calorie": 1,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/ARM SCISSORS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1d2"
+  },
+  "type": "shoulder and back",
+  "name": "KNEE PUSHUP",
+  "calorie": 0.6,
+  "reps": 12,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/KNEE PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1d3"
+  },
+  "type": "shoulder and back",
+  "name": "RHOMBOID PULLS",
+  "calorie": 0.3,
+  "reps": 14,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/RHOMBOID PULLS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1d4"
+  },
+  "type": "shoulder and back",
+  "name": "SIDE ARM RAISE",
+  "calorie": 1,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/SIDE ARM RAISE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1d5"
+  },
+  "type": "shoulder and back",
+  "name": "PIKE PUSHUP",
+  "calorie": 0.5,
+  "reps": 6,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/PIKE PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1d6"
+  },
+  "type": "shoulder and back",
+  "name": "RHOMBOID PULLS",
+  "calorie": 0.4,
+  "reps": 12,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/RHOMBOID PULLS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1d7"
+  },
+  "type": "shoulder and back",
+  "name": "ARM RAISES",
+  "calorie": 1,
+  "time": 20,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/ARM RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1d8"
+  },
+  "type": "shoulder and back",
+  "name": "CAT COW POSE",
+  "calorie": 2,
+  "time": 30,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/CAT COW POSE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1d9"
+  },
+  "type": "shoulder and back",
+  "name": "CHILD'S POSE",
+  "calorie": 2,
+  "time": 30,
+  "level": "Beginner",
+  "gif_path": "/path/to/gifs/CHILD'S POSE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1da"
+  },
+  "type": "abs",
+  "name": "JUMPING JACK",
+  "calorie": 2,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/JUMPING JACK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1db"
+  },
+  "type": "abs",
+  "name": "NEGATIVE LEG RAISES",
+  "calorie": 0.2,
+  "reps": 16,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/NEGATIVE LEG RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1dc"
+  },
+  "type": "abs",
+  "name": "CRUNCHES",
+  "calorie": 0.4,
+  "reps": 16,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/CRUNCHES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1dd"
+  },
+  "type": "abs",
+  "name": "PLANK",
+  "calorie": 3,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/PLANK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1de"
+  },
+  "type": "abs",
+  "name": "RUNNING MOUNTAIN CLIMBER",
+  "calorie": 3,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/RUNNING MOUNTAIN CLIMBER.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1df"
+  },
+  "type": "abs",
+  "name": "BICYCLE",
+  "calorie": 0.4,
+  "reps": 16,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/BICYCLE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1e0"
+  },
+  "type": "abs",
+  "name": "CRUNCHES",
+  "calorie": 0.4,
+  "reps": 16,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/CRUNCHES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1e1"
+  },
+  "type": "abs",
+  "name": "PLANK",
+  "calorie": 4,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/PLANK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1e2"
+  },
+  "type": "abs",
+  "name": "LEG RAISE RUSSIAN TWIST",
+  "calorie": 0.2,
+  "reps": 20,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/LEG RAISE RUSSIAN TWIST.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1e3"
+  },
+  "type": "abs",
+  "name": "RUNNING MOUNTAIN CLIMBER",
+  "calorie": 3,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/RUNNING MOUNTAIN CLIMBER.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1e4"
+  },
+  "type": "abs",
+  "name": "NEGATIVE LEG RAISES",
+  "calorie": 0.2,
+  "reps": 16,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/NEGATIVE LEG RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1e5"
+  },
+  "type": "abs",
+  "name": "BICYCLE",
+  "calorie": 0.3,
+  "reps": 16,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/BICYCLE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1e6"
+  },
+  "type": "abs",
+  "name": "PLANK",
+  "calorie": 4,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/PLANK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1e7"
+  },
+  "type": "abs",
+  "name": "COBRA STRETCH",
+  "calorie": 3,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/COBRA STRETCH.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1e8"
+  },
+  "type": "abs",
+  "name": "SPINE LUMBER TWIST STRETCH LEFT",
+  "calorie": 2,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SPINE LUMBER TWIST STRETCH LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1e9"
+  },
+  "type": "abs",
+  "name": "SPINE LUMBER TWIST STRETCH RIGHT",
+  "calorie": 2,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SPINE LUMBER TWIST STRETCH RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1ea"
+  },
+  "type": "chest",
+  "name": "JUMPING JACK",
+  "calorie": 3,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/JUMPING JACK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1eb"
+  },
+  "type": "chest",
+  "name": "INCLINED PUSHUP",
+  "calorie": 0.4,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/INCLINED PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1ec"
+  },
+  "type": "chest",
+  "name": "NORMAL PUSHUP",
+  "calorie": 0.4,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/NORMAL PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1ed"
+  },
+  "type": "chest",
+  "name": "TRISCEPS DIPS",
+  "calorie": 0.4,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/TRISCEPS DIPS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1ee"
+  },
+  "type": "chest",
+  "name": "DECLINED PUSHUP",
+  "calorie": 0.4,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/DECLINED PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1ef"
+  },
+  "type": "chest",
+  "name": "WIDE PUSHUP",
+  "calorie": 0.3,
+  "reps": 10,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/WIDE PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1f0"
+  },
+  "type": "chest",
+  "name": "NORMAL PUSHUP",
+  "calorie": 0.3,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/NORMAL PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1f1"
+  },
+  "type": "chest",
+  "name": "HINDU PUSHUP",
+  "calorie": 0.4,
+  "reps": 8,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/HINDU PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1f2"
+  },
+  "type": "chest",
+  "name": "DIAMOND PUSHUPS",
+  "calorie": 0.4,
+  "reps": 10,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/DIAMOND PUSHUPS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1f3"
+  },
+  "type": "chest",
+  "name": "INCLINED PUSHUP",
+  "calorie": 0.4,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/INCLINED PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1f4"
+  },
+  "type": "chest",
+  "name": "TRISCEPS DIPS",
+  "calorie": 0.2,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/TRISCEPS DIPS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1f5"
+  },
+  "type": "chest",
+  "name": "COBRA STRETCH",
+  "calorie": 1,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/COBRA STRETCH.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1f6"
+  },
+  "type": "chest",
+  "name": "CHEST STRETCH",
+  "calorie": 2,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/CHEST STRETCH.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1f7"
+  },
+  "type": "arms",
+  "name": "JUMPING JACK",
+  "calorie": 1,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/JUMPING JACK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1f8"
+  },
+  "type": "arms",
+  "name": "ARM CIRCLE CLOCK-WISE",
+  "calorie": 2,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/ARM CIRCLE CLOCK-WISE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1f9"
+  },
+  "type": "arms",
+  "name": "ARM CIRCLE ANTI-CLOCKWISE",
+  "calorie": 3,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/ARM CIRCLE ANTI-CLOCKWISE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1fa"
+  },
+  "type": "arms",
+  "name": "TRICEP DIPS",
+  "calorie": 0.2,
+  "reps": 10,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/TRICEP DIPS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1fb"
+  },
+  "type": "arms",
+  "name": "NORMAL PUSHUP",
+  "calorie": 0.4,
+  "reps": 10,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/NORMAL PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1fc"
+  },
+  "type": "arms",
+  "name": "PUSH-UP & ROTATION",
+  "calorie": 0.2,
+  "reps": 10,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/PUSH-UP & ROTATION.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1fd"
+  },
+  "type": "arms",
+  "name": "LEG BARBELL CURL LEFT",
+  "calorie": 0.1,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/LEG BARBELL CURL LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1fe"
+  },
+  "type": "arms",
+  "name": "LEG BARBELL CURL RIGHT",
+  "calorie": 0.1,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/LEG BARBELL CURL RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f1ff"
+  },
+  "type": "arms",
+  "name": "SKIPPING WITHOUT ROPE",
+  "calorie": 3,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SKIPPING WITHOUT ROPE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f200"
+  },
+  "type": "arms",
+  "name": "LEG BARBELL CURL LEFT",
+  "calorie": 0.2,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/LEG BARBELL CURL LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f201"
+  },
+  "type": "arms",
+  "name": "LEG BARBELL CURL RIGHT",
+  "calorie": 0.2,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/LEG BARBELL CURL RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f202"
+  },
+  "type": "arms",
+  "name": "PUSH-UP & ROTATION",
+  "calorie": 0.1,
+  "reps": 10,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/PUSH-UP & ROTATION.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f203"
+  },
+  "type": "arms",
+  "name": "TRICEP DIPS",
+  "calorie": 0.2,
+  "reps": 10,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/TRICEP DIPS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f204"
+  },
+  "type": "arms",
+  "name": "ARM SCISSORS",
+  "calorie": 2,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/ARM SCISSORS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f205"
+  },
+  "type": "arms",
+  "name": "BURPEES",
+  "calorie": 0.5,
+  "reps": 10,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/BURPEES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f206"
+  },
+  "type": "arms",
+  "name": "SKIPPING WITHOUT ROPE",
+  "calorie": 3,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SKIPPING WITHOUT ROPE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f207"
+  },
+  "type": "arms",
+  "name": "TRICEPS STRETCH LEFT",
+  "calorie": 2,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/TRICEPS STRETCH LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f208"
+  },
+  "type": "arms",
+  "name": "TRICEPS STRETCH RIGHT",
+  "calorie": 2,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/TRICEPS STRETCH RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f209"
+  },
+  "type": "arms",
+  "name": "STANDING BICEPS STRETCH LEFT",
+  "calorie": 1,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/STANDING BICEPS STRETCH LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f20a"
+  },
+  "type": "arms",
+  "name": "STANDING BICEPS STRETCH RIGHT",
+  "calorie": 1,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/STANDING BICEPS STRETCH RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f20b"
+  },
+  "type": "legs",
+  "name": "JUMPING JACK",
+  "calorie": 3,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/JUMPING JACK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f20c"
+  },
+  "type": "legs",
+  "name": "SQUATS",
+  "calorie": 0.4,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f20d"
+  },
+  "type": "legs",
+  "name": "SQUATS",
+  "calorie": 0.4,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f20e"
+  },
+  "type": "legs",
+  "name": "SQUATS",
+  "calorie": 0.4,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f20f"
+  },
+  "type": "legs",
+  "name": "SIDE-LYING LEG LIFT LEFT",
+  "calorie": 0.2,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SIDE-LYING LEG LIFT LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f210"
+  },
+  "type": "legs",
+  "name": "SIDE-LYING LEG LIFT RIGHT",
+  "calorie": 0.2,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SIDE-LYING LEG LIFT RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f211"
+  },
+  "type": "legs",
+  "name": "DONKEY KICKS",
+  "calorie": 0.2,
+  "reps": 18,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/DONKEY KICKS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f212"
+  },
+  "type": "legs",
+  "name": "LUNGES",
+  "calorie": 0.4,
+  "reps": 14,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/LUNGES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f213"
+  },
+  "type": "legs",
+  "name": "LUNGES",
+  "calorie": 0.4,
+  "reps": 14,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/LUNGES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f214"
+  },
+  "type": "legs",
+  "name": "SUMO SQUATS",
+  "calorie": 0.8,
+  "reps": 10,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SUMO SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f215"
+  },
+  "type": "legs",
+  "name": "SUMO SQUATS",
+  "calorie": 0.8,
+  "reps": 10,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SUMO SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f216"
+  },
+  "type": "legs",
+  "name": "SUMO SQUATS",
+  "calorie": 0.8,
+  "reps": 10,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SUMO SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f217"
+  },
+  "type": "legs",
+  "name": "WALL SIT",
+  "calorie": 3,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/WALL SIT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f218"
+  },
+  "type": "legs",
+  "name": "CALF RAISES",
+  "calorie": 2,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/CALF RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f219"
+  },
+  "type": "legs",
+  "name": "JUMPING SQUATS",
+  "calorie": 0.5,
+  "reps": 10,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/JUMPING SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f21a"
+  },
+  "type": "legs",
+  "name": "KNEE TO CHEST STRETCH LEFT",
+  "calorie": 1,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/KNEE TO CHEST STRETCH LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f21b"
+  },
+  "type": "legs",
+  "name": "KNEE TO CHEST STRETCH RIGHT",
+  "calorie": 1,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/KNEE TO CHEST STRETCH RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f21c"
+  },
+  "type": "legs",
+  "name": "CALF STRETCH LEFT",
+  "calorie": 0.75,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/CALF STRETCH LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f21d"
+  },
+  "type": "legs",
+  "name": "CALF STRETCH RIGHT",
+  "calorie": 0.75,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/CALF STRETCH RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f21e"
+  },
+  "type": "shoulder and back",
+  "name": "JUMPING JACK",
+  "calorie": 3,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/JUMPING JACK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f21f"
+  },
+  "type": "shoulder and back",
+  "name": "ARM RAISES",
+  "calorie": 2,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/ARM RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f220"
+  },
+  "type": "shoulder and back",
+  "name": "SIDE ARM RAISE",
+  "calorie": 2,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SIDE ARM RAISE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f221"
+  },
+  "type": "shoulder and back",
+  "name": "ARM SCISSORS",
+  "calorie": 3.5,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/ARM SCISSORS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f222"
+  },
+  "type": "shoulder and back",
+  "name": "PIKE PUSHUP",
+  "calorie": 1.5,
+  "reps": 10,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/PIKE PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f223"
+  },
+  "type": "shoulder and back",
+  "name": "SIDE SHOULDER RAISE LEFT",
+  "calorie": 0.5,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SIDE SHOULDER RAISE LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f224"
+  },
+  "type": "shoulder and back",
+  "name": "SIDE SHOULDER RAISE RIGHT",
+  "calorie": 0.5,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SIDE SHOULDER RAISE RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f225"
+  },
+  "type": "shoulder and back",
+  "name": "HINDU PUSHUP",
+  "calorie": 0.2,
+  "reps": 12,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/HINDU PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f226"
+  },
+  "type": "shoulder and back",
+  "name": "BUTTERFLY",
+  "calorie": 4,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/BUTTERFLY.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f227"
+  },
+  "type": "shoulder and back",
+  "name": "SUPERMAN",
+  "calorie": 3,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SUPERMAN.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f228"
+  },
+  "type": "shoulder and back",
+  "name": "IRON MAN FLY",
+  "calorie": 5,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/IRON MAN FLY.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f229"
+  },
+  "type": "shoulder and back",
+  "name": "PIKE PUSHUP",
+  "calorie": 0.3,
+  "reps": 10,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/PIKE PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f22a"
+  },
+  "type": "shoulder and back",
+  "name": "BUTTERFLY",
+  "calorie": 4,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/BUTTERFLY.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f22b"
+  },
+  "type": "shoulder and back",
+  "name": "ARM RAISES",
+  "calorie": 2,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/ARM RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f22c"
+  },
+  "type": "shoulder and back",
+  "name": "SIDE ARM RAISE",
+  "calorie": 3.5,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/SIDE ARM RAISE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f22d"
+  },
+  "type": "shoulder and back",
+  "name": "CAT COW POSE",
+  "calorie": 2.5,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/CAT COW POSE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f22e"
+  },
+  "type": "shoulder and back",
+  "name": "CHILD'S POSE",
+  "calorie": 1,
+  "time": 30,
+  "level": "Intermediate",
+  "gif_path": "/path/to/gifs/CHILD'S POSE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f22f"
+  },
+  "type": "abs",
+  "name": "JUMPING JACK",
+  "calorie": 4.5,
+  "time": 30,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/JUMPING JACK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f230"
+  },
+  "type": "abs",
+  "name": "NEGATIVE LEG RAISES",
+  "calorie": 0.4,
+  "reps": 20,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/NEGATIVE LEG RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f231"
+  },
+  "type": "abs",
+  "name": "CRUNCHES",
+  "calorie": 0.4,
+  "reps": 18,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/CRUNCHES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f232"
+  },
+  "type": "abs",
+  "name": "PLANK",
+  "calorie": 1.5,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/PLANK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f233"
+  },
+  "type": "abs",
+  "name": "RUNNING MOUNTAIN CLIMBER",
+  "calorie": 2.5,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/RUNNING MOUNTAIN CLIMBER.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f234"
+  },
+  "type": "abs",
+  "name": "SIDE PLANK RIGHT",
+  "calorie": 1,
+  "time": 30,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SIDE PLANK RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f235"
+  },
+  "type": "abs",
+  "name": "SIDE PLANK LEFT",
+  "calorie": 1,
+  "time": 30,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SIDE PLANK LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f236"
+  },
+  "type": "abs",
+  "name": "LEG RAISE RUSSIAN TWIST",
+  "calorie": 0.3,
+  "reps": 24,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/LEG RAISE RUSSIAN TWIST.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f237"
+  },
+  "type": "abs",
+  "name": "RUNNING MOUNTAIN CLIMBER",
+  "calorie": 6,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/RUNNING MOUNTAIN CLIMBER.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f238"
+  },
+  "type": "abs",
+  "name": "PLANK",
+  "calorie": 1.5,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/PLANK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f239"
+  },
+  "type": "abs",
+  "name": "CRUNCHES",
+  "calorie": 0.4,
+  "reps": 18,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/CRUNCHES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f23a"
+  },
+  "type": "abs",
+  "name": "NEGATIVE LEG RAISES",
+  "calorie": 0.4,
+  "reps": 20,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/NEGATIVE LEG RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f23b"
+  },
+  "type": "abs",
+  "name": "SIDE BRIDGES LEFT",
+  "calorie": 0.4,
+  "reps": 20,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SIDE BRIDGES LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f23c"
+  },
+  "type": "abs",
+  "name": "SIDE BRIDGES RIGHT",
+  "calorie": 0.4,
+  "reps": 20,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SIDE BRIDGES RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f23d"
+  },
+  "type": "abs",
+  "name": "BUTT BRIDGE",
+  "calorie": 0.4,
+  "reps": 30,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/BUTT BRIDGE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f23e"
+  },
+  "type": "abs",
+  "name": "COBRA STRETCH",
+  "calorie": 1,
+  "time": 35,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/COBRA STRETCH.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f23f"
+  },
+  "type": "abs",
+  "name": "SPINE LUMBAR TWIST STRETCH LEFT",
+  "calorie": 1.25,
+  "time": 35,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SPINE LUMBAR TWIST STRETCH LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f240"
+  },
+  "type": "abs",
+  "name": "SPINE LUMBAR TWIST STRETCH RIGHT",
+  "calorie": 1.25,
+  "time": 35,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SPINE LUMBAR TWIST STRETCH RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f241"
+  },
+  "type": "chest",
+  "name": "JUMPING JACK",
+  "calorie": 6,
+  "time": 30,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/JUMPING JACK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f242"
+  },
+  "type": "chest",
+  "name": "INCLINED PUSHUP",
+  "calorie": 0.4,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/INCLINED PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f243"
+  },
+  "type": "chest",
+  "name": "NORMAL PUSHUP",
+  "calorie": 0.4,
+  "reps": 16,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/NORMAL PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f244"
+  },
+  "type": "chest",
+  "name": "TRISCEPS DIPS",
+  "calorie": 0.4,
+  "reps": 16,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/TRISCEPS DIPS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f245"
+  },
+  "type": "chest",
+  "name": "DECLINED PUSHUP",
+  "calorie": 0.4,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/DECLINED PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f246"
+  },
+  "type": "chest",
+  "name": "WIDE PUSHUP",
+  "calorie": 0.4,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/WIDE PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f247"
+  },
+  "type": "chest",
+  "name": "NORMAL PUSHUP",
+  "calorie": 0.4,
+  "reps": 16,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/NORMAL PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f248"
+  },
+  "type": "chest",
+  "name": "HINDU PUSHUP",
+  "calorie": 0.4,
+  "reps": 10,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/HINDU PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f249"
+  },
+  "type": "chest",
+  "name": "DIAMOND PUSHUPS",
+  "calorie": 0.4,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/DIAMOND PUSHUPS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f24a"
+  },
+  "type": "chest",
+  "name": "WIDE PUSHUP",
+  "calorie": 0.4,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/WIDE PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f24b"
+  },
+  "type": "chest",
+  "name": "NORMAL PUSHUP",
+  "calorie": 0.4,
+  "reps": 16,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/NORMAL PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f24c"
+  },
+  "type": "chest",
+  "name": "HINDU PUSHUP",
+  "calorie": 0.4,
+  "reps": 10,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/HINDU PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f24d"
+  },
+  "type": "chest",
+  "name": "INCLINED PUSHUP",
+  "calorie": 0.5,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/INCLINED PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f24e"
+  },
+  "type": "chest",
+  "name": "NORMAL PUSHUP",
+  "calorie": 0.5,
+  "reps": 16,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/NORMAL PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f24f"
+  },
+  "type": "chest",
+  "name": "DECLINED PUSHUP",
+  "calorie": 0.5,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/DECLINED PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f250"
+  },
+  "type": "chest",
+  "name": "TRISCEPS DIPS",
+  "calorie": 0.5,
+  "reps": 16,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/TRISCEPS DIPS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f251"
+  },
+  "type": "chest",
+  "name": "WIDE PUSHUP",
+  "calorie": 0.5,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/WIDE PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f252"
+  },
+  "type": "chest",
+  "name": "HINDU PUSHUP",
+  "calorie": 0.5,
+  "reps": 10,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/HINDU PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f253"
+  },
+  "type": "chest",
+  "name": "COBRA STRETCH",
+  "calorie": 1,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/COBRA STRETCH.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f254"
+  },
+  "type": "chest",
+  "name": "CHEST STRETCH",
+  "calorie": 1,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/CHEST STRETCH.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f255"
+  },
+  "type": "arms",
+  "name": "JUMPING JACK",
+  "calorie": 2,
+  "time": 30,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/JUMPING JACK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f256"
+  },
+  "type": "arms",
+  "name": "ARM CIRCLE CLOCK-WISE",
+  "calorie": 1,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/ARM CIRCLE CLOCK-WISE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f257"
+  },
+  "type": "arms",
+  "name": "ARM CIRCLE ANTI-CLOCKWISE",
+  "calorie": 1,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/ARM CIRCLE ANTI-CLOCKWISE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f258"
+  },
+  "type": "arms",
+  "name": "TRICEP DIPS",
+  "calorie": 0.6,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/TRICEP DIPS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f259"
+  },
+  "type": "arms",
+  "name": "NORMAL PUSHUP",
+  "calorie": 0.6,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/NORMAL PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f25a"
+  },
+  "type": "arms",
+  "name": "PUSH-UP & ROTATION",
+  "calorie": 0.6,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/PUSH-UP & ROTATION.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f25b"
+  },
+  "type": "arms",
+  "name": "LEG BARBELL CURL LEFT",
+  "calorie": 0.6,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/LEG BARBELL CURL LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f25c"
+  },
+  "type": "arms",
+  "name": "LEG BARBELL CURL RIGHT",
+  "calorie": 0.6,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/LEG BARBELL CURL RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f25d"
+  },
+  "type": "arms",
+  "name": "PUSH-UP & ROTATION",
+  "calorie": 0.6,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/PUSH-UP & ROTATION.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f25e"
+  },
+  "type": "arms",
+  "name": "LEG BARBELL CURL LEFT",
+  "calorie": 0.6,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/LEG BARBELL CURL LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f25f"
+  },
+  "type": "arms",
+  "name": "LEG BARBELL CURL RIGHT",
+  "calorie": 0.6,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/LEG BARBELL CURL RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f260"
+  },
+  "type": "arms",
+  "name": "SKIPPING WITHOUT ROPE",
+  "calorie": 8,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SKIPPING WITHOUT ROPE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f261"
+  },
+  "type": "arms",
+  "name": "PUSH-UP & ROTATION",
+  "calorie": 0.3,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/PUSH-UP & ROTATION.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f262"
+  },
+  "type": "arms",
+  "name": "TRICEP DIPS",
+  "calorie": 0.3,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/TRICEP DIPS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f263"
+  },
+  "type": "arms",
+  "name": "NORMAL PUSHUP",
+  "calorie": 0.3,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/NORMAL PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f264"
+  },
+  "type": "arms",
+  "name": "ARM SCISSORS",
+  "calorie": 1,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/ARM SCISSORS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f265"
+  },
+  "type": "arms",
+  "name": "BURPEES",
+  "calorie": 0.8,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/BURPEES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f266"
+  },
+  "type": "arms",
+  "name": "ARM RAISES",
+  "calorie": 1.33,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/ARM RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f267"
+  },
+  "type": "arms",
+  "name": "BURPEES",
+  "calorie": 0.8,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/BURPEES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f268"
+  },
+  "type": "arms",
+  "name": "PUSH-UP & ROTATION",
+  "calorie": 0.5,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/PUSH-UP & ROTATION.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f269"
+  },
+  "type": "arms",
+  "name": "TRICEP DIPS",
+  "calorie": 0.3,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/TRICEP DIPS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f26a"
+  },
+  "type": "arms",
+  "name": "TRICEPS STRETCH LEFT",
+  "calorie": 1.33,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/TRICEPS STRETCH LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f26b"
+  },
+  "type": "arms",
+  "name": "TRICEPS STRETCH RIGHT",
+  "calorie": 1.33,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/TRICEPS STRETCH RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f26c"
+  },
+  "type": "arms",
+  "name": "STANDING BICEPS STRETCH LEFT",
+  "calorie": 1.33,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/STANDING BICEPS STRETCH LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f26d"
+  },
+  "type": "arms",
+  "name": "STANDING BICEPS STRETCH RIGHT",
+  "calorie": 1.33,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/STANDING BICEPS STRETCH RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f26e"
+  },
+  "type": "legs",
+  "name": "JUMPING JACK",
+  "calorie": 6.67,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/JUMPING JACK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f26f"
+  },
+  "type": "legs",
+  "name": "SQUATS",
+  "calorie": 0.3,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f270"
+  },
+  "type": "legs",
+  "name": "SQUATS",
+  "calorie": 0.3,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f271"
+  },
+  "type": "legs",
+  "name": "SQUATS",
+  "calorie": 0.3,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f272"
+  },
+  "type": "legs",
+  "name": "DONKEY KICKS",
+  "calorie": 0.3,
+  "reps": 20,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/DONKEY KICKS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f273"
+  },
+  "type": "legs",
+  "name": "SIDE-LYING LEG LIFT LEFT",
+  "calorie": 0.3,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SIDE-LYING LEG LIFT LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f274"
+  },
+  "type": "legs",
+  "name": "SIDE-LYING LEG LIFT RIGHT",
+  "calorie": 0.3,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SIDE-LYING LEG LIFT RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f275"
+  },
+  "type": "legs",
+  "name": "DONKEY KICKS",
+  "calorie": 0.3,
+  "reps": 20,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/DONKEY KICKS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f276"
+  },
+  "type": "legs",
+  "name": "JUMPING JACK",
+  "calorie": 1,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/JUMPING JACK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f277"
+  },
+  "type": "legs",
+  "name": "SQUATS",
+  "calorie": 0.3,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f278"
+  },
+  "type": "legs",
+  "name": "SQUATS",
+  "calorie": 0.3,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f279"
+  },
+  "type": "legs",
+  "name": "LUNGES",
+  "calorie": 0.3,
+  "reps": 16,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/LUNGES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f27a"
+  },
+  "type": "legs",
+  "name": "LUNGES",
+  "calorie": 0.3,
+  "reps": 16,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/LUNGES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f27b"
+  },
+  "type": "legs",
+  "name": "LUNGES",
+  "calorie": 0.3,
+  "reps": 16,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/LUNGES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f27c"
+  },
+  "type": "legs",
+  "name": "CALF RAISES",
+  "calorie": 0.95,
+  "time": 35,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/CALF RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f27d"
+  },
+  "type": "legs",
+  "name": "SUMO SQUATS",
+  "calorie": 0.4,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SUMO SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f27e"
+  },
+  "type": "legs",
+  "name": "SUMO SQUATS",
+  "calorie": 0.4,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SUMO SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f27f"
+  },
+  "type": "legs",
+  "name": "CALF RAISES",
+  "calorie": 0.95,
+  "time": 35,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/CALF RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f280"
+  },
+  "type": "legs",
+  "name": "WALL SIT",
+  "calorie": 1,
+  "time": 35,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/WALL SIT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f281"
+  },
+  "type": "legs",
+  "name": "SUMO SQUATS",
+  "calorie": 0.5,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SUMO SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f282"
+  },
+  "type": "legs",
+  "name": "JUMPING SQUATS",
+  "calorie": 0.5,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/JUMPING SQUATS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f283"
+  },
+  "type": "legs",
+  "name": "KNEE TO CHEST STRETCH LEFT",
+  "calorie": 1.2,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/KNEE TO CHEST STRETCH LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f284"
+  },
+  "type": "legs",
+  "name": "KNEE TO CHEST STRETCH RIGHT",
+  "calorie": 1.2,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/KNEE TO CHEST STRETCH RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f285"
+  },
+  "type": "legs",
+  "name": "CALF STRETCH LEFT",
+  "calorie": 0.85,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/CALF STRETCH LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f286"
+  },
+  "type": "legs",
+  "name": "CALF STRETCH RIGHT",
+  "calorie": 0.85,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/CALF STRETCH RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f287"
+  },
+  "type": "shoulder and back",
+  "name": "JUMPING JACK",
+  "calorie": 1,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/JUMPING JACK.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f288"
+  },
+  "type": "shoulder and back",
+  "name": "ARM RAISES",
+  "calorie": 0.9,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/ARM RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f289"
+  },
+  "type": "shoulder and back",
+  "name": "SIDE ARM RAISE",
+  "calorie": 1.25,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SIDE ARM RAISE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f28a"
+  },
+  "type": "shoulder and back",
+  "name": "ARM SCISSORS",
+  "calorie": 0.85,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/ARM SCISSORS.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f28b"
+  },
+  "type": "shoulder and back",
+  "name": "BUTTERFLY",
+  "calorie": 1.5,
+  "time": 35,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/BUTTERFLY.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f28c"
+  },
+  "type": "shoulder and back",
+  "name": "SUPERMAN",
+  "calorie": 2,
+  "time": 35,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SUPERMAN.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f28d"
+  },
+  "type": "shoulder and back",
+  "name": "IRON MAN FLY",
+  "calorie": 1.25,
+  "time": 35,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/IRON MAN FLY.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f28e"
+  },
+  "type": "shoulder and back",
+  "name": "PIKE PUSHUP",
+  "calorie": 0.7,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/PIKE PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f28f"
+  },
+  "type": "shoulder and back",
+  "name": "SIDE SHOULDER RAISE LEFT",
+  "calorie": 1,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SIDE SHOULDER RAISE LEFT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f290"
+  },
+  "type": "shoulder and back",
+  "name": "SIDE SHOULDER RAISE RIGHT",
+  "calorie": 1,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SIDE SHOULDER RAISE RIGHT.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f291"
+  },
+  "type": "shoulder and back",
+  "name": "HINDU PUSHUP",
+  "calorie": 0.4,
+  "reps": 14,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/HINDU PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f292"
+  },
+  "type": "shoulder and back",
+  "name": "PIKE PUSHUP",
+  "calorie": 0.4,
+  "reps": 10,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/PIKE PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f293"
+  },
+  "type": "shoulder and back",
+  "name": "IRON MAN FLY",
+  "calorie": 1.25,
+  "time": 35,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/IRON MAN FLY.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f294"
+  },
+  "type": "shoulder and back",
+  "name": "SUPERMAN",
+  "calorie": 2,
+  "time": 35,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SUPERMAN.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f295"
+  },
+  "type": "shoulder and back",
+  "name": "BUTTERFLY",
+  "calorie": 1.5,
+  "time": 35,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/BUTTERFLY.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f296"
+  },
+  "type": "shoulder and back",
+  "name": "ARM RAISES",
+  "calorie": 0.9,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/ARM RAISES.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f297"
+  },
+  "type": "shoulder and back",
+  "name": "SIDE ARM RAISE",
+  "calorie": 1.25,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SIDE ARM RAISE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f298"
+  },
+  "type": "shoulder and back",
+  "name": "SUPERMAN",
+  "calorie": 2,
+  "time": 35,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SUPERMAN.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f299"
+  },
+  "type": "shoulder and back",
+  "name": "BUTTERFLY",
+  "calorie": 1.5,
+  "time": 35,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/BUTTERFLY.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f29a"
+  },
+  "type": "shoulder and back",
+  "name": "PIKE PUSHUP",
+  "calorie": 0.4,
+  "reps": 12,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/PIKE PUSHUP.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f29b"
+  },
+  "type": "shoulder and back",
+  "name": "SIDE ARM RAISE",
+  "calorie": 1.25,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/SIDE ARM RAISE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f29c"
+  },
+  "type": "shoulder and back",
+  "name": "CAT COW POSE",
+  "calorie": 2.8,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/CAT COW POSE.gif"
+},
+{
+  "_id": {
+    "$oid": "65d7a180b19a90440665f29d"
+  },
+  "type": "shoulder and back",
+  "name": "CHILD'S POSE",
+  "calorie": 1.3,
+  "time": 40,
+  "level": "Advanced",
+  "gif_path": "/path/to/gifs/CHILD'S POSE.gif"
+}]
